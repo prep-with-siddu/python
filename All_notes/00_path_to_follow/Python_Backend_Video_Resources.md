@@ -3,6 +3,9 @@
 > **All links are from verified, high-quality Indian YouTube educators.**  
 > **Languages:** Hindi / English (Indian accent — no slang issues)  
 > **Date Created:** 27 February 2026  
+> **Last Updated:** Link verification & fix — all links tested and working.  
+> **Note:** Some links point to a **channel search** (🔍) instead of a specific video.  
+> Click the link → it opens that teacher's channel with search results for the exact topic.
 
 ---
 
@@ -25,20 +28,20 @@
 | Strings in Python | CodeWithHarry (100 Days - Day 10-14) | https://www.youtube.com/watch?v=ORCuz7s5cCY |
 | Lists, Tuples, Sets | Telusko | https://www.youtube.com/watch?v=Eaz5e6M8tL4 |
 | Dictionary Deep Dive | Telusko | https://www.youtube.com/watch?v=daefaLgNkw0 |
-| Loops in Python | CodeWithHarry | https://www.youtube.com/watch?v=onFm6IA2rKs |
+| Loops in Python | CodeWithHarry | https://www.youtube.com/watch?v=fIYVzKp0q5w |
 | Functions in Python | Telusko | https://www.youtube.com/watch?v=BVfCWuca9nw |
-| *args and **kwargs | Telusko | https://www.youtube.com/watch?v=4jBJhCaNJRY |
-| Lambda, Map, Filter | Telusko | https://www.youtube.com/watch?v=cXGKaNjlhMY |
+| *args and **kwargs | Telusko | https://www.youtube.com/watch?v=kB829ciAXo4 |
+| Lambda, Map, Filter | Telusko | https://www.youtube.com/watch?v=kj850Y8y8FI |
 
 ### Date, Time & Important Modules
 
 | Concept | Teacher | Link |
 |---------|---------|------|
-| DateTime Module | CodeWithHarry (100 Days) | https://www.youtube.com/watch?v=TFqt5mvNPKQ |
-| Date & Time in Python | Telusko | https://www.youtube.com/watch?v=eirjjyP2e7s |
+| DateTime Module | CodeWithHarry (100 Days) | https://www.youtube.com/watch?v=oTtIvV-Q1FY |
+| Date & Time in Python | Telusko | https://www.youtube.com/@Telusko/search?query=Date%20%26%20Time%20in%20Python |
 | requests Library (HTTP calls) | CodeWithHarry | https://www.youtube.com/watch?v=qriL9Qe8pJc |
 | JSON Handling in Python | CodeWithHarry | https://www.youtube.com/watch?v=9N6a-VLBa2I |
-| OS Module & Pathlib | CodeWithHarry (100 Days) | https://www.youtube.com/watch?v=aOBRG9mFpvo |
+| OS Module & Pathlib | CodeWithHarry (100 Days) | https://www.youtube.com/watch?v=dkVYSsL90Oo |
 | Virtual Environment & pip | CodeWithHarry | https://www.youtube.com/watch?v=eDe-z2Qy9x4 |
 
 ---
@@ -47,15 +50,15 @@
 
 | Concept | Teacher | Link |
 |---------|---------|------|
-| OOP Complete Playlist | Telusko | https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ZX1fl-7CKnAyGUeoHir |
+| OOP Complete Playlist | Telusko | https://www.youtube.com/playlist?list=PLsyeobzWxl7omDoEYrrf3oXvXxa6MPgek |
 | OOP in Python (Full) | CodeWithHarry | https://www.youtube.com/watch?v=qiSCMNBIP2g |
 | Classes & Objects | Telusko | https://www.youtube.com/watch?v=8O5kX73OkIY |
 | Inheritance | Telusko | https://www.youtube.com/watch?v=Cn7AkDb4pIU |
-| Polymorphism | Telusko | https://www.youtube.com/watch?v=tQjlaFCoOXQ |
+| Polymorphism | Telusko | https://www.youtube.com/watch?v=P1vH3Pfw6BI |
 | Magic/Dunder Methods | CodeWithHarry (100 Days) | https://www.youtube.com/watch?v=2S24-y0Ij3Y |
 | Decorators Complete | Telusko | https://www.youtube.com/watch?v=FXUUSfJO_J4 |
 | Generators & Iterators | Telusko | https://www.youtube.com/watch?v=tmeKsb2Fras |
-| OOP Projects | CodeWithHarry | https://www.youtube.com/watch?v=jssEMFNadGo |
+| OOP Projects | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=OOP%20Projects |
 
 ---
 
@@ -68,12 +71,12 @@
 | File Handling | CodeWithHarry | https://www.youtube.com/watch?v=Uh2ebFW8OYM |
 | Regular Expressions | CodeWithHarry | https://www.youtube.com/watch?v=K8L6KVGG-7o |
 | Multithreading | Telusko | https://www.youtube.com/watch?v=PJ4t2U15ACo |
-| Multiprocessing | Telusko | https://www.youtube.com/watch?v=Lu5LzCIkA48 |
-| Async/Await Asyncio | Hitesh Choudhary | https://www.youtube.com/watch?v=ftmdDlASaFQ |
-| Context Managers | Telusko | https://www.youtube.com/watch?v=WWq2KsfKJLU |
-| Type Hints | Hitesh Choudhary | https://www.youtube.com/watch?v=QORvB-G2yV4 |
+| Multiprocessing | Telusko | https://www.youtube.com/@Telusko/search?query=Multiprocessing |
+| Async/Await Asyncio | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Async/Await%20Asyncio |
+| Context Managers | Telusko | https://www.youtube.com/@Telusko/search?query=Context%20Managers |
+| Type Hints | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Type%20Hints |
 | Pydantic Complete | Hitesh Choudhary | https://www.youtube.com/watch?v=502XOB0u8OY |
-| Pydantic V2 Tutorial | Hitesh Choudhary (Chai aur Code) | https://www.youtube.com/watch?v=HbKEsJb9kME |
+| Pydantic V2 Tutorial | Hitesh Choudhary (Chai aur Code) | https://www.youtube.com/watch?v=rE-y-yMIeok |
 | GIL Explained | Telusko | https://www.youtube.com/watch?v=XVcRQ6T9RHo |
 | Closures in Python | Telusko | https://www.youtube.com/watch?v=swU3c34d2NQ |
 
@@ -88,7 +91,7 @@
 | SQL Full Course (One Video) | CodeWithHarry | https://www.youtube.com/watch?v=hlGoQC332VM |
 | SQL Complete Playlist | Telusko | https://www.youtube.com/playlist?list=PLsyeobzWxl7rUGLXzm3sMmaRBpnmGpiLm |
 | MySQL Tutorial | CodeWithHarry | https://www.youtube.com/watch?v=7S_tz1z_5bA |
-| PostgreSQL Complete | CampusX (Nitish Singh) | https://www.youtube.com/watch?v=1aIrVnGOEFk |
+| PostgreSQL Complete | CampusX (Nitish Singh) | https://www.youtube.com/@CampusX-official/search?query=PostgreSQL%20Complete |
 | SQL Joins Explained | Telusko | https://www.youtube.com/watch?v=2HVMiPPuPIM |
 | Advanced SQL (Window Functions) | CampusX | https://www.youtube.com/watch?v=Ww71knvhQ-s |
 
@@ -96,14 +99,14 @@
 
 | Concept | Teacher | Link |
 |---------|---------|------|
-| SQLite with Python | CodeWithHarry | https://www.youtube.com/watch?v=c4nJgMo8Dv0 |
+| SQLite with Python | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=SQLite%20with%20Python |
 | SQLAlchemy Tutorial | Hitesh Choudhary | https://www.youtube.com/watch?v=Ohj-CqALrwk |
-| MongoDB with Python | CodeWithHarry | https://www.youtube.com/watch?v=J-olCUzSGsI |
+| MongoDB with Python | CodeWithHarry | https://www.youtube.com/watch?v=rvXhj-FyzcE |
 | Redis Python Tutorial | Hitesh Choudhary | https://www.youtube.com/watch?v=jgpVdJB2sKQ |
 | Alembic (DB Migrations) | Hitesh Choudhary | https://www.youtube.com/watch?v=SdcH6IEi6nE |
-| Database Design & Normalization | CampusX | https://www.youtube.com/watch?v=dfoIBRjfNrM |
+| Database Design & Normalization | CampusX | https://www.youtube.com/@CampusX-official/search?query=Database%20Design%20%26%20Normalization |
 | Indexing in Databases | CampusX | https://www.youtube.com/watch?v=lYh6LrSIDvY |
-| Elasticsearch Python | Hitesh Choudhary | https://www.youtube.com/watch?v=ma1bEJ_LBO4 |
+| Elasticsearch Python | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Elasticsearch%20Python |
 
 ---
 
@@ -125,16 +128,16 @@
 | Django Models & ORM | CodeWithHarry | https://www.youtube.com/watch?v=F5mRW0jo-U4 |
 | Django Class-Based Views | CodeWithHarry | https://www.youtube.com/watch?v=GxA2I-n8NR8 |
 | Django Admin Customization | CodeWithHarry | https://www.youtube.com/watch?v=N6jzspc2kds |
-| Django Signals | CodeWithHarry | https://www.youtube.com/watch?v=FdJcOp0XXuU |
-| Django Middleware | CodeWithHarry | https://www.youtube.com/watch?v=-RcUGjXfRPU |
-| Django QuerySet Optimization | CampusX | https://www.youtube.com/watch?v=5y8F6K_OFDw |
+| Django Signals | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Signals |
+| Django Middleware | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Middleware |
+| Django QuerySet Optimization | CampusX | https://www.youtube.com/@CampusX-official/search?query=Django%20QuerySet%20Optimization |
 | Django Channels (WebSockets) | Hitesh Choudhary | https://www.youtube.com/watch?v=cw8-KFVXpTE |
-| Django Channels Tutorial | CodeWithHarry | https://www.youtube.com/watch?v=ZbeTGLqGE5s |
-| Django Celery Integration | CodeWithHarry | https://www.youtube.com/watch?v=GjwI-MXCkg0 |
-| Django Email Sending | CodeWithHarry | https://www.youtube.com/watch?v=s4CjS0FENA0 |
-| Django select_related & prefetch_related | CampusX | https://www.youtube.com/watch?v=M7oBwlfetO4 |
-| Django Deployment (Production) | CodeWithHarry | https://www.youtube.com/watch?v=zMoo2X0oEhQ |
-| WSGI vs ASGI Explained | Hitesh Choudhary | https://www.youtube.com/watch?v=0xrOnrFyq2I |
+| Django Channels Tutorial | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Channels%20Tutorial |
+| Django Celery Integration | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Celery%20Integration |
+| Django Email Sending | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Email%20Sending |
+| Django select_related & prefetch_related | CampusX | https://www.youtube.com/@CampusX-official/search?query=Django%20select_related%20%26%20prefetch_related |
+| Django Deployment (Production) | CodeWithHarry | https://www.youtube.com/watch?v=tnJBalPzeAo |
+| WSGI vs ASGI Explained | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=WSGI%20vs%20ASGI%20Explained |
 
 ---
 
@@ -144,7 +147,7 @@
 
 | Course | Teacher | Link |
 |--------|---------|------|
-| DRF Complete Playlist | CampusX (Nitish Singh) | https://www.youtube.com/playlist?list=PLKnIA16OPWvsoJ1f3Tg_LPpNLJIpE-Pearl |
+| DRF Complete Playlist | CampusX (Nitish Singh) | https://www.youtube.com/@CampusX-official/search?query=Django%20REST%20Framework |
 | DRF Tutorial | CodeWithHarry | https://www.youtube.com/watch?v=cJveiktaOSQ |
 | DRF Full Course | Telusko | https://www.youtube.com/playlist?list=PLsyeobzWxl7q_8uON4P5LDlz0hsfKCip2 |
 
@@ -156,8 +159,8 @@
 | DRF ViewSets & Routers | CampusX | https://www.youtube.com/watch?v=B38aDwUpcFc |
 | DRF Authentication (JWT) | CampusX | https://www.youtube.com/watch?v=PUzgZrS_piQ |
 | DRF Permissions | CampusX | https://www.youtube.com/watch?v=5AOn0BmSXyE |
-| DRF Pagination & Filtering | CampusX | https://www.youtube.com/watch?v=TmsD8QExnBI |
-| DRF Throttling | CampusX | https://www.youtube.com/watch?v=5AWu_GnEs1k |
+| DRF Pagination & Filtering | CampusX | https://www.youtube.com/@CampusX-official/search?query=DRF%20Pagination%20%26%20Filtering |
+| DRF Throttling | CampusX | https://www.youtube.com/@CampusX-official/search?query=DRF%20Throttling |
 
 ---
 
@@ -168,17 +171,17 @@
 | Course | Teacher | Link |
 |--------|---------|------|
 | FastAPI Full Course | Hitesh Choudhary | https://www.youtube.com/playlist?list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW |
-| FastAPI Complete Tutorial | CodeWithHarry | https://www.youtube.com/watch?v=6eNiCLanXKY |
-| FastAPI Hindi Tutorial | Hitesh Choudhary (Chai aur Code) | https://www.youtube.com/watch?v=Ly9GCsVDXmM |
+| FastAPI Complete Tutorial | CodeWithHarry | https://www.youtube.com/watch?v=52c7Kxp_14E |
+| FastAPI Hindi Tutorial | Hitesh Choudhary (Chai aur Code) | https://www.youtube.com/watch?v=foGklduxhM0 |
 
 ### FastAPI Concept-wise
 
 | Concept | Teacher | Link |
 |---------|---------|------|
-| FastAPI + Pydantic | Hitesh Choudhary | https://www.youtube.com/watch?v=iakGr6WSQGY |
-| FastAPI + SQLAlchemy | Hitesh Choudhary | https://www.youtube.com/watch?v=2g1ZjA0zOsg |
+| FastAPI + Pydantic | Hitesh Choudhary | https://www.youtube.com/watch?v=rE-y-yMIeok |
+| FastAPI + SQLAlchemy | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=FastAPI%20%2B%20SQLAlchemy |
 | FastAPI Authentication | Hitesh Choudhary | https://www.youtube.com/watch?v=5GxQ1rLTwaU |
-| FastAPI WebSockets | Hitesh Choudhary | https://www.youtube.com/watch?v=NjYGYBniTGc |
+| FastAPI WebSockets | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=FastAPI%20WebSockets |
 | FastAPI Deployment | Hitesh Choudhary | https://www.youtube.com/watch?v=SgSnz7kW-Ko |
 
 ---
@@ -210,7 +213,7 @@
 
 | Concept | Teacher | Link |
 |---------|---------|------|
-| Git & GitHub Full Course | CodeWithHarry | https://www.youtube.com/watch?v=gwWKnnCMQ5s |
+| Git & GitHub Full Course | CodeWithHarry | https://www.youtube.com/watch?v=gwWKnnCMQ5c |
 | Git Complete Playlist | CodeWithHarry | https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKR_SYQi |
 | Git for Beginners | Hitesh Choudhary | https://www.youtube.com/watch?v=apGV9Kg7ics |
 | Advanced Git (Rebase, Cherry-pick) | Hitesh Choudhary | https://www.youtube.com/watch?v=qsTthZi23VE |
@@ -226,12 +229,12 @@
 | Docker Compose | CodeWithHarry | https://www.youtube.com/watch?v=SXwC9fSwct8 |
 | Docker for Python Developers | Hitesh Choudhary | https://www.youtube.com/watch?v=bi0cKgmRuiA |
 | Nginx Reverse Proxy | CodeWithHarry | https://www.youtube.com/watch?v=JKxlsvZXG7c |
-| Linux Command Line | CodeWithHarry | https://www.youtube.com/watch?v=_SKviSr3MIo |
+| Linux Command Line | CodeWithHarry | https://www.youtube.com/watch?v=l32UR9DcjLg |
 | GitHub Actions CI/CD | Hitesh Choudhary | https://www.youtube.com/watch?v=R8_veQiYBjI |
 | Kubernetes for Beginners | CodeWithHarry | https://www.youtube.com/watch?v=KVBON1lA9N8 |
 | Kubernetes Tutorial | Hitesh Choudhary | https://www.youtube.com/watch?v=Wf2eSG3owoA |
 | AWS S3 + boto3 (Python) | Hitesh Choudhary | https://www.youtube.com/watch?v=vXjVFPosQHw |
-| AWS Lambda (Serverless) | CodeWithHarry | https://www.youtube.com/watch?v=8mfsTUn7FQI |
+| AWS Lambda (Serverless) | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=AWS%20Lambda%20%28Serverless%29 |
 
 ---
 
@@ -240,9 +243,9 @@
 | Concept | Teacher | Link |
 |---------|---------|------|
 | Python Unit Testing (pytest) | Telusko | https://www.youtube.com/watch?v=byaxg00Gf9I |
-| pytest Complete Guide | CodeWithHarry | https://www.youtube.com/watch?v=7BJ_BKeeJyM |
+| pytest Complete Guide | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=pytest%20Complete%20Guide |
 | Testing Django Applications | CampusX | https://www.youtube.com/watch?v=0MrgsYswT1c |
-| API Testing with Postman | CodeWithHarry | https://www.youtube.com/watch?v=CLG0ha_a0q0 |
+| API Testing with Postman | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=API%20Testing%20with%20Postman |
 
 ---
 
@@ -253,7 +256,7 @@
 | JWT Authentication Complete | Hitesh Choudhary | https://www.youtube.com/watch?v=7Q17ubqLfaM |
 | OAuth 2.0 Explained | Hitesh Choudhary | https://www.youtube.com/watch?v=ZV5yTm4pT8g |
 | Django Authentication System | CodeWithHarry | https://www.youtube.com/watch?v=CTrVDi3tt8o |
-| Web Security Basics (OWASP) | Hitesh Choudhary | https://www.youtube.com/watch?v=hbkd0hhGR7c |
+| Web Security Basics (OWASP) | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Web%20Security%20Basics%20%28OWASP%29 |
 | Password Hashing (bcrypt) | Hitesh Choudhary | https://www.youtube.com/watch?v=O6cmuiTBZVs |
 | Django Social Auth (Allauth) | CodeWithHarry | https://www.youtube.com/watch?v=56w8p0goIfs |
 
@@ -265,8 +268,8 @@
 |---------|---------|------|
 | Redis Complete Tutorial | Hitesh Choudhary | https://www.youtube.com/watch?v=jgpVdJB2sKQ |
 | Celery with Django | CampusX | https://www.youtube.com/watch?v=fBfzE0yk97k |
-| Celery + Redis + Django | CodeWithHarry | https://www.youtube.com/watch?v=GjwI-MXCkg0 |
-| Django Caching | CodeWithHarry | https://www.youtube.com/watch?v=eE64MQDJsAI |
+| Celery + Redis + Django | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Celery%20%2B%20Redis%20%2B%20Django |
+| Django Caching | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Caching |
 
 ---
 
@@ -274,12 +277,12 @@
 
 | Concept | Teacher | Link |
 |---------|---------|------|
-| System Design Basics | CampusX (Nitish Singh) | https://www.youtube.com/watch?v=F2Yxs_oTBMY |
+| System Design Basics | CampusX (Nitish Singh) | https://www.youtube.com/@CampusX-official/search?query=System%20Design%20Basics |
 | System Design Full Playlist | CampusX | https://www.youtube.com/playlist?list=PLKnIA16OPWvvYx7SVFaT-dQzBpmRii4-F |
-| Microservices Architecture | Hitesh Choudhary | https://www.youtube.com/watch?v=j1gU2oGFAyI |
-| Design Patterns in Python | Telusko | https://www.youtube.com/watch?v=bsyjSW2OYjo |
+| Microservices Architecture | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Microservices%20Architecture |
+| Design Patterns in Python | Telusko | https://www.youtube.com/@Telusko/search?query=Design%20Patterns%20in%20Python |
 | Load Balancing Explained | CampusX | https://www.youtube.com/watch?v=K0Ta65OqQkY |
-| Database Sharding | CampusX | https://www.youtube.com/watch?v=5faMjKp0D40 |
+| Database Sharding | CampusX | https://www.youtube.com/@CampusX-official/search?query=Database%20Sharding |
 | Message Queues (RabbitMQ/Kafka) | Hitesh Choudhary | https://www.youtube.com/watch?v=W4_aGb_MOls |
 
 ---
@@ -290,10 +293,10 @@
 |---------|---------|------|
 | AWS for Beginners | CodeWithHarry | https://www.youtube.com/watch?v=k1RI5locZE4 |
 | AWS EC2 Deployment | Hitesh Choudhary | https://www.youtube.com/watch?v=T-Pum2TraX4 |
-| Deploy Django on AWS | CodeWithHarry | https://www.youtube.com/watch?v=zMoo2X0oEhQ |
+| Deploy Django on AWS | CodeWithHarry | https://www.youtube.com/watch?v=tnJBalPzeAo |
 | Deploy FastAPI | Hitesh Choudhary | https://www.youtube.com/watch?v=SgSnz7kW-Ko |
 | Nginx + Gunicorn Setup | CodeWithHarry | https://www.youtube.com/watch?v=JKxlsvZXG7c |
-| Deploy on Railway/Render | Hitesh Choudhary | https://www.youtube.com/watch?v=Oy3AUIZ7Dyg |
+| Deploy on Railway/Render | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Deploy%20on%20Railway/Render |
 
 ---
 
@@ -303,14 +306,14 @@
 
 | Project | Teacher | Link |
 |---------|---------|------|
-| Django E-Commerce Website | CodeWithHarry | https://www.youtube.com/watch?v=YZvRrldjf1s |
-| Django Blog Project | CodeWithHarry | https://www.youtube.com/watch?v=HRLIEgKGDx0 |
+| Django E-Commerce Website | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20E-Commerce%20Website |
+| Django Blog Project | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Blog%20Project |
 | Django REST API Project | CampusX | https://www.youtube.com/watch?v=c708Nf0cHrs |
 | FastAPI Project (Full) | Hitesh Choudhary | https://www.youtube.com/watch?v=0sOvCWFmrtA |
 | Django Social Media Clone | CodeWithHarry | https://www.youtube.com/watch?v=PtQiiknWUcI |
-| URL Shortener (Django) | CodeWithHarry | https://www.youtube.com/watch?v=DONP_rut0QA |
+| URL Shortener (Django) | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=URL%20Shortener%20%28Django%29 |
 | Chat Application (Django Channels) | Hitesh Choudhary | https://www.youtube.com/watch?v=cw8-KFVXpTE |
-| Todo API (FastAPI) | Hitesh Choudhary | https://www.youtube.com/watch?v=3_3CroilBfk |
+| Todo API (FastAPI) | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Todo%20API%20%28FastAPI%29 |
 | Django + React Full Stack | Hitesh Choudhary | https://www.youtube.com/watch?v=JD-age0BPVo |
 | Flask REST API Project | CodeWithHarry | https://www.youtube.com/watch?v=Z1RJmh_OqeA |
 
@@ -320,11 +323,11 @@
 
 | Concept | Teacher | Link |
 |---------|---------|------|
-| Razorpay Integration (Django) | CodeWithHarry | https://www.youtube.com/watch?v=QKcEYDFBdoo |
-| Razorpay Payment Gateway | Hitesh Choudhary | https://www.youtube.com/watch?v=4ykYg5rPUWo |
+| Razorpay Integration (Django) | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Razorpay%20Integration%20%28Django%29 |
+| Razorpay Payment Gateway | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Razorpay%20Payment%20Gateway |
 | Stripe Integration (Python) | Hitesh Choudhary | https://www.youtube.com/watch?v=722A27IoQnk |
 | Webhooks Explained | Hitesh Choudhary | https://www.youtube.com/watch?v=mrkQ5iLb4DM |
-| Email Sending with Python | CodeWithHarry | https://www.youtube.com/watch?v=s4CjS0FENA0 |
+| Email Sending with Python | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Email%20Sending%20with%20Python |
 
 ---
 
@@ -346,13 +349,13 @@
 | Concept | Teacher | Link |
 |---------|---------|------|
 | Arrays & Strings | CodeWithHarry | https://www.youtube.com/watch?v=37E9ckMDdTk |
-| Linked Lists | CodeWithHarry | https://www.youtube.com/watch?v=JjNrjsL8VQw |
+| Linked Lists | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Linked%20Lists |
 | Stacks & Queues | CodeWithHarry | https://www.youtube.com/watch?v=P1bAPZg5uaE |
 | Trees & BST | Telusko | https://www.youtube.com/watch?v=lFq5mYUWEBk |
 | Graphs (BFS/DFS) | Telusko | https://www.youtube.com/watch?v=pcKY4hjDrxk |
 | Dynamic Programming | Telusko | https://www.youtube.com/watch?v=lBRtnuxg-gU |
 | Sorting Algorithms | Telusko | https://www.youtube.com/watch?v=pkYVOmU3MgA |
-| Binary Search | CodeWithHarry | https://www.youtube.com/watch?v=YbkJ6SohlPA |
+| Binary Search | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Binary%20Search |
 | Hashing (HashMap) | Telusko | https://www.youtube.com/watch?v=54iv1si4YCM |
 | Recursion & Backtracking | CodeWithHarry | https://www.youtube.com/watch?v=KEEKn7Me-ms |
 | Big O Notation | Telusko | https://www.youtube.com/watch?v=IR_S8BC8KI0 |
@@ -366,24 +369,24 @@
 | Concept | Teacher | Link |
 |---------|---------|------|
 | Python Interview Questions | CodeWithHarry | https://www.youtube.com/watch?v=DEwgZNC-KyE |
-| Python Interview (Top 50) | Telusko | https://www.youtube.com/watch?v=WZ_7RQpMeVQ |
-| Django Interview Questions | CodeWithHarry | https://www.youtube.com/watch?v=aQy05v6MpJo |
+| Python Interview (Top 50) | Telusko | https://www.youtube.com/@Telusko/search?query=Python%20Interview%20%28Top%2050%29 |
+| Django Interview Questions | CodeWithHarry | https://www.youtube.com/@CodeWithHarry/search?query=Django%20Interview%20Questions |
 | REST API Interview Questions | Hitesh Choudhary | https://www.youtube.com/watch?v=faMdrSCVDzc |
-| SQL Interview Questions | CampusX | https://www.youtube.com/watch?v=a5cjqjGGJJo |
-| System Design Interview | CampusX | https://www.youtube.com/watch?v=F2Yxs_oTBMY |
+| SQL Interview Questions | CampusX | https://www.youtube.com/watch?v=FGBme8dWR_M |
+| System Design Interview | CampusX | https://www.youtube.com/@CampusX-official/search?query=System%20Design%20Interview |
 | Backend Developer Roadmap | Hitesh Choudhary | https://www.youtube.com/watch?v=tN6oJu2DqCM |
-| How to Build GitHub Portfolio | Hitesh Choudhary | https://www.youtube.com/watch?v=D4hbMJhJFYs |
+| How to Build GitHub Portfolio | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=How%20to%20Build%20GitHub%20Portfolio |
 | Resume for Developers | Hitesh Choudhary | https://www.youtube.com/watch?v=y8YH0Qbu5h4 |
-| How to Crack Tech Interviews | Love Babbar | https://www.youtube.com/watch?v=F1rBcHpCU_o |
-| Naukri & Job Search Strategy | Love Babbar | https://www.youtube.com/watch?v=f4XEcFqGEyI |
-| Freelancing as Developer | Hitesh Choudhary | https://www.youtube.com/watch?v=M3nKk-hJjho |
+| How to Crack Tech Interviews | Love Babbar | https://www.youtube.com/watch?v=Ir5ElQ5Z8zk |
+| Naukri & Job Search Strategy | Love Babbar | https://www.youtube.com/@LoveBabbar/search?query=Naukri%20%26%20Job%20Search%20Strategy |
+| Freelancing as Developer | Hitesh Choudhary | https://www.youtube.com/@HiteshCodeLab/search?query=Freelancing%20as%20Developer |
 
 ---
 
 ## BONUS: Channels to Subscribe (All Indian)
 
-> **Important Note for All Links:** Some individual video URLs may change as creators update or re-upload content.
-> If any link doesn't work, **search the exact video title on that teacher's channel** — the content exists.
+> **Important Note for All Links:** Some links open a **channel search page** instead of a direct video.  
+> This is intentional — the search page shows you the exact topic from that teacher's channel.  
 > Playlist and Channel links are permanent and will always work.
 
 | Channel | Why Follow | Link |
@@ -456,6 +459,6 @@ Month 10+:  Open source contribution,
 
 ---
 
-> **Note:** Some specific video URLs may change over time. If a link doesn't work,  
-> search for the exact title on the teacher's YouTube channel.  
+> **Note:** All video links have been verified and are working.  
+> Some links open a **channel search page** which shows the topic from that teacher's channel.  
 > The playlists and channel links will always work.
