@@ -20,6 +20,8 @@
 | 10 | System Design & Architecture | Scalability, caching, queues, microservices, patterns | 45+ |
 | 11 | DevOps & Deployment | Docker, CI/CD, Nginx, Gunicorn, monitoring, cloud | 40+ |
 | 12 | Coding Round Patterns | DSA patterns, time/space complexity, common problems | 40+ |
+| 13 | Python Gotchas & Tricky Output | Mutable defaults, closures, `is` vs `==`, internals, tricky output | 60+ |
+| 14 | More Coding Problems (Patterns) | Two pointers, sliding window, DP, backtracking, graphs, heap | 50+ |
 
 ---
 
@@ -41,6 +43,6 @@
 
 ---
 
-**Total Questions: 490+**
+**Total Questions: 600+**
 
 *Created: 28 Feb 2026*
